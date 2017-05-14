@@ -1,0 +1,1 @@
+# myfvwm2rc
